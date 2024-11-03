@@ -585,6 +585,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HS2.TimelineFlowControl", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI.TimelineFlowControl", "src\TimelineFlowControl.AI\AI.TimelineFlowControl.csproj", "{2AB45B21-1B6A-40E7-B172-F9A32DD5392D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpLister", "src\JumpLister\JumpLister.csproj", "{AC4A70BC-FDC8-4EA9-A08F-0667E7EA6F25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1307,6 +1309,10 @@ Global
 		{2AB45B21-1B6A-40E7-B172-F9A32DD5392D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AB45B21-1B6A-40E7-B172-F9A32DD5392D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AB45B21-1B6A-40E7-B172-F9A32DD5392D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4A70BC-FDC8-4EA9-A08F-0667E7EA6F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4A70BC-FDC8-4EA9-A08F-0667E7EA6F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4A70BC-FDC8-4EA9-A08F-0667E7EA6F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4A70BC-FDC8-4EA9-A08F-0667E7EA6F25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
