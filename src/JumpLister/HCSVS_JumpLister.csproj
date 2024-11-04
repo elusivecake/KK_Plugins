@@ -7,6 +7,8 @@
 		<DebugType>embedded</DebugType>
 		<OutputPath>$(SolutionDir)/bin/JumpLister</OutputPath>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<AssemblyName>HCSVS_JumpLister</AssemblyName>
+		<RootNamespace>JumpLister</RootNamespace>
 	</PropertyGroup>
 
 	<ItemGroup>

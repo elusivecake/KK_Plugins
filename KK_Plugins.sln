@@ -585,7 +585,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HS2.TimelineFlowControl", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI.TimelineFlowControl", "src\TimelineFlowControl.AI\AI.TimelineFlowControl.csproj", "{2AB45B21-1B6A-40E7-B172-F9A32DD5392D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpLister", "src\JumpLister\JumpLister.csproj", "{AC4A70BC-FDC8-4EA9-A08F-0667E7EA6F25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCSVS_JumpLister", "src\JumpLister\HCSVS_JumpLister.csproj", "{AC4A70BC-FDC8-4EA9-A08F-0667E7EA6F25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
